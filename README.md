@@ -6,7 +6,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 BS Artificial Intelligence Student
-- 💼 AI Intern @ Decode Labs
 - 🤖 Passionate about Artificial Intelligence and solving real-world problems
 - 🌱 Currently learning **Generative AI, Agentic AI, Large Language Models (LLMs), and AI Agent Development**
 - 🧠 Exploring Machine Learning, Deep Learning, Prompt Engineering, and AI Automation
@@ -56,18 +55,6 @@
 - Contribute to Open Source
 - Learn cutting-edge AI technologies
 - Grow into an AI Engineer
-
----
-
-## 📂 Featured Projects
-
-🚧 Projects coming soon...
-
-- ATM Simulation System (C++)
-- Machine Learning Projects
-- Deep Learning Projects
-- AI Agent Projects
-- Generative AI Applications
 
 ---
 
